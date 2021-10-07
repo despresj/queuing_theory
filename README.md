@@ -1,0 +1,1 @@
+Customer arrival rate prediction project. I am going to use cashier data to estimate customer arrival rates.
